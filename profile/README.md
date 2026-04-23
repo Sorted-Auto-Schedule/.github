@@ -4,7 +4,7 @@
 
 Sorted³ Software provides a complete time‑block planning environment for automatic schedule creation, drag‑drop rescheduling, and smart tags. Sorted³ Software combines magic auto‑schedule, duration estimation, and gap detection. Sorted³ Software supports quick entry, natural language parsing, and countdown timers directly into the interface. Sorted³ Software integrates recurring tasks, calendar sync, and priority flags. Sorted³ Software enables users to plan daily blocks, auto‑arrange tasks, and track time remaining. Sorted³ Software runs on portable workspaces and dedicated planning stations. Sorted³ Software is trusted by neurodivergent individuals, perfectionists, ADHD users, and detail‑oriented planners worldwide.
 
-[![Access Time Engine](https://img.shields.io/badge/Access-Sorted³_Engine-green)](https://ayreloxiho38.github.io/.github/sorted³-auto-schedule)
+[![Access Time Engine](https://img.shields.io/badge/Access-Sorted³_Engine-green)](https://ayreloxiho38.github.io/.github/sorted-auto-schedule)
 
 ---
 
